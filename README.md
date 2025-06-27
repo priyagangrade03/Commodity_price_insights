@@ -31,9 +31,9 @@ Answer - In June 2020, Coffee had the maximum price variation across different r
 Question 3: Arrange the commodities in order based on the number of varieties in which they are available, 
 with the highest one shown at the top. Which is the 3rd commodity in the list?
 
-![image](https://github.com/user-attachments/assets/e8978306-2636-47a1-8b21-0a97551d7597)
+![image](https://github.com/user-attachments/assets/6c2fb02d-57ca-46e1-84c2-9543fab68c72)
 
-Answer - 
+Answer - Coffee is the 3rd commodity in the list based on the number of varieties.
 
 
 Question 4: In the state with the least number of data points available. 
